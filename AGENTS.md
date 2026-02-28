@@ -1,5 +1,7 @@
 # VS Code → Webflow Workflow Plan
 
+Always use the Chrome Devtools MCP tools to verify your work.
+
 ## Context
 
 We want to do most frontend development in VS Code (HTML, CSS, JS for marketing pages, content sites, and a component library with scroll animations), then push/copy the finished code into Webflow via the MCP server. The goal is to keep the developer-friendly VS Code workflow while leveraging Webflow for hosting, CMS, and visual editing.

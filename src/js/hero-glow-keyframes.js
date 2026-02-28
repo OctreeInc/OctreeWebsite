@@ -1,0 +1,1 @@
+(function(){var s=document.createElement('style');s.textContent='@keyframes heroWaveGlow{0%{background-position:0% 50%}25%{background-position:100% 25%}50%{background-position:100% 50%}75%{background-position:0% 75%}100%{background-position:0% 50%}}';document.head.appendChild(s)})();

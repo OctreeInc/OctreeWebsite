@@ -1,0 +1,4 @@
+{
+  "livePreview.defaultPreviewPath": "src/index.html",
+  "livePreview.serverRoot": "src"
+}

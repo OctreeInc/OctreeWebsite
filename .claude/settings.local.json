@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__webflow__webflow_guide_tool",
+      "mcp__webflow__data_sites_tool",
+      "mcp__webflow__data_pages_tool",
+      "mcp__webflow__element_tool",
+      "mcp__webflow__style_tool",
+      "mcp__webflow__de_page_tool",
+      "mcp__webflow__asset_tool",
+      "mcp__webflow__ask_webflow_ai",
+      "mcp__webflow__element_builder",
+      "mcp__webflow__de_component_tool",
+      "mcp__webflow__element_snapshot_tool",
+      "mcp__webflow__data_components_tool",
+      "mcp__webflow__data_scripts_tool",
+      "mcp__webflow__variable_tool",
+      "mcp__webflow__data_cms_tool",
+      "WebFetch(domain:cdn.prod.website-files.com)",
+      "Bash(python3:*)",
+      "mcp__chrome-devtools__list_pages",
+      "mcp__chrome-devtools__navigate_page",
+      "mcp__chrome-devtools__take_screenshot",
+      "mcp__chrome-devtools__evaluate_script",
+      "mcp__chrome-devtools__take_snapshot",
+      "mcp__chrome-devtools__click",
+      "mcp__chrome-devtools__hover"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "webflow"
+  ]
+}
